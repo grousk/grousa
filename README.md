@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @grousa
+- 👀 I’m interested in web services and cloud technology.
+- 🌱 I’m currently learning advanced networking.
+- 💞️ I’m looking to collaborate on Kergida Project.
+- 📫 How to reach me omer@kergida.me
+
+<!---
+grousa/grousa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
