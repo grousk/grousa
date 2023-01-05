@@ -4,10 +4,6 @@
 - 💞️ I’m looking to collaborate on Kergida Project.
 - 📫 How to reach me grousmm@gmail.com
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=grousa&count_private=true&theme=tokyonight&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=grousa&langs_count=5&theme=tokyonight)]()
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=grousa&theme=dark&background=000000)]
 <!---
 grousa/grousa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
