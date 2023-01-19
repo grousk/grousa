@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @grousa
 - 👀 I’m interested in web services and cloud technology.
 - 🌱 I’m currently learning advanced networking.
-- 💞️ I’m looking to collaborate on Kergida Project.
 - 📫 How to reach me grousmm@gmail.com
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=grousa&theme=dark&background=000000)]
